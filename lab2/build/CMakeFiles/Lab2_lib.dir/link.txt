@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar qc libLab2_lib.a CMakeFiles/Lab2_lib.dir/src/Twelve.cpp.o CMakeFiles/Lab2_lib.dir/src/vector.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib libLab2_lib.a

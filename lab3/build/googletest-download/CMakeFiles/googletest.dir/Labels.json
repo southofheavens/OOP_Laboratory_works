@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/semenzuravlev/Desktop/OOP_labs/lab3/build/googletest-download/CMakeFiles/googletest"
+		},
+		{
+			"file" : "/Users/semenzuravlev/Desktop/OOP_labs/lab3/build/googletest-download/CMakeFiles/googletest.rule"
+		},
+		{
+			"file" : "/Users/semenzuravlev/Desktop/OOP_labs/lab3/build/googletest-download/CMakeFiles/googletest-complete.rule"
+		},
+		{
+			"file" : "/Users/semenzuravlev/Desktop/OOP_labs/lab3/build/googletest-download/googletest-prefix/src/googletest-stamp/googletest-build.rule"
+		},
+		{
+			"file" : "/Users/semenzuravlev/Desktop/OOP_labs/lab3/build/googletest-download/googletest-prefix/src/googletest-stamp/googletest-configure.rule"
+		},
+		{
+			"file" : "/Users/semenzuravlev/Desktop/OOP_labs/lab3/build/googletest-download/googletest-prefix/src/googletest-stamp/googletest-download.rule"
+		},
+		{
+			"file" : "/Users/semenzuravlev/Desktop/OOP_labs/lab3/build/googletest-download/googletest-prefix/src/googletest-stamp/googletest-install.rule"
+		},
+		{
+			"file" : "/Users/semenzuravlev/Desktop/OOP_labs/lab3/build/googletest-download/googletest-prefix/src/googletest-stamp/googletest-mkdir.rule"
+		},
+		{
+			"file" : "/Users/semenzuravlev/Desktop/OOP_labs/lab3/build/googletest-download/googletest-prefix/src/googletest-stamp/googletest-patch.rule"
+		},
+		{
+			"file" : "/Users/semenzuravlev/Desktop/OOP_labs/lab3/build/googletest-download/googletest-prefix/src/googletest-stamp/googletest-test.rule"
+		},
+		{
+			"file" : "/Users/semenzuravlev/Desktop/OOP_labs/lab3/build/googletest-download/googletest-prefix/src/googletest-stamp/googletest-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"googletest"
+		],
+		"name" : "googletest"
+	}
+}
