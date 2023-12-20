@@ -65,7 +65,14 @@ namespace mai
 
             void deallocate(T* pointer, size_t)
             {
-                _free_blocks[_free_count++] = pointer;
+                for(size_t i = 0;i < max_count; ++i)
+                {
+                    if (_used_blocks + i * sizeof(T) == (char*) pointer)
+                    {
+                        _free_blocks[_free_count++] = pointer;
+                        break;
+                    }
+                }
             }
 
             template <typename U, typename... Args>
