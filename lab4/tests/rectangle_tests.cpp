@@ -1,18 +1,20 @@
 #include <gtest/gtest.h>
+#include <string>
 #include "../include/figures/Rectangle.h"
 #include "../src/figures/Rectangle.cpp"
 #include "../include/figures/Point.h"
 #include "../src/figures/Point.cpp"
 
 using namespace figures;
+using namespace std;
 
 TEST(constructor_test, without_exception_test_1) {
     ASSERT_NO_THROW(
-                    Rectangle<double>(
-                                      Point<double>(0, 0),
-                                      Point<double>(1, 0),
-                                      Point<double>(0, 1),
-                                      Point<double>(1, 1)
+                    Rectangle<string>(
+                                      Point<string>("0", "0"),
+                                      Point<string>("1", "0"),
+                                      Point<string>("0", "1"),
+                                      Point<string>("1", "1")
                                       )
                     );
 }

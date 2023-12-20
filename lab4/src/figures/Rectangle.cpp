@@ -98,12 +98,12 @@ figures::Point<T> Rectangle<T>::calculate_geometric_center() const noexcept {
 }
 
 template <class T>
-T Rectangle<T>::calculate_perimeter() const noexcept {
+double Rectangle<T>::calculate_perimeter() const noexcept {
     return (_length + _width) * 2;
 }
 
 template <class T>
-T Rectangle<T>::calculate_area() const noexcept {
+double Rectangle<T>::calculate_area() const noexcept {
     return (_length * _width);
 }
 

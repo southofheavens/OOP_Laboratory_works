@@ -29,8 +29,8 @@ public:
     virtual ~Rectangle() = default;
 
     virtual figures::Point<T> calculate_geometric_center() const noexcept override;
-    virtual T calculate_perimeter() const noexcept override;
-    virtual T calculate_area() const noexcept override;
+    virtual double calculate_perimeter() const noexcept override;
+    virtual double calculate_area() const noexcept override;
 
     const T& get_length() const noexcept;
     const T& get_width() const noexcept;

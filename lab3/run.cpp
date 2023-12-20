@@ -83,5 +83,7 @@ int main() {
     std::cout << std::endl << "Total area" << std::endl;
     std::cout << figures_vector.calculate_total_area() << std::endl;
 
+    //Figure f[3] = [Rectangle, Square, Trapeze];
+
     return 0;
 }
