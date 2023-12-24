@@ -1,0 +1,14 @@
+# Target labels
+ googletest
+# Source files and their labels
+/Users/semenzuravlev/Documents/study/OOP_labs/lab6/build/googletest-download/CMakeFiles/googletest
+/Users/semenzuravlev/Documents/study/OOP_labs/lab6/build/googletest-download/CMakeFiles/googletest.rule
+/Users/semenzuravlev/Documents/study/OOP_labs/lab6/build/googletest-download/CMakeFiles/googletest-complete.rule
+/Users/semenzuravlev/Documents/study/OOP_labs/lab6/build/googletest-download/googletest-prefix/src/googletest-stamp/googletest-build.rule
+/Users/semenzuravlev/Documents/study/OOP_labs/lab6/build/googletest-download/googletest-prefix/src/googletest-stamp/googletest-configure.rule
+/Users/semenzuravlev/Documents/study/OOP_labs/lab6/build/googletest-download/googletest-prefix/src/googletest-stamp/googletest-download.rule
+/Users/semenzuravlev/Documents/study/OOP_labs/lab6/build/googletest-download/googletest-prefix/src/googletest-stamp/googletest-install.rule
+/Users/semenzuravlev/Documents/study/OOP_labs/lab6/build/googletest-download/googletest-prefix/src/googletest-stamp/googletest-mkdir.rule
+/Users/semenzuravlev/Documents/study/OOP_labs/lab6/build/googletest-download/googletest-prefix/src/googletest-stamp/googletest-patch.rule
+/Users/semenzuravlev/Documents/study/OOP_labs/lab6/build/googletest-download/googletest-prefix/src/googletest-stamp/googletest-test.rule
+/Users/semenzuravlev/Documents/study/OOP_labs/lab6/build/googletest-download/googletest-prefix/src/googletest-stamp/googletest-update.rule
